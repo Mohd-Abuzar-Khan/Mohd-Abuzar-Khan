@@ -6,7 +6,7 @@
 ---
 
 <h2 align="center">
-  Hi 👋! My name is Zary and I'm a Computer Science Student & Aspiring Software Engineer from India 🇮🇳
+  Hi 👋! My name is Abuzar Khan and I'm a Computer Science Student & Aspiring Software Engineer from India 🇮🇳
 </h2>
 
 ---
