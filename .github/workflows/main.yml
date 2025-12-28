@@ -7,7 +7,7 @@ on:
 
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master", "main","core-java-practice", "java-oops-practice"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -27,7 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Four-af
+          user: Mohd-Abuzar-Khan
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
