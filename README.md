@@ -1,6 +1,6 @@
 <!-- Cute Cat at the Top -->
 <div align="center">
-  <img height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlmajlrbXMwbXlhd3Zwc3Y2ZXltZWt0aGcyZnVqMnNyZmQxeWV5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/67SVlMfSytb5VfvD90/giphy.gif" />
+  <img height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW0xcmtnMGc0OGVlcXk3eGQxOXh0anE4cjIxdTBicG90M2FmMjA1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DaQG0YiUzDk6enxbvj/giphy.gif" />
 </div>
 
 ---
