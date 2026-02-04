@@ -14,8 +14,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohd-Abuzar-Khan&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Abuzar-Khan&layout=compact&theme=dracula&langs_count=8" height="165"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Mohd-Abuzar-Khan&show_icons=true&theme=dracula" />
 </p>
 
 
